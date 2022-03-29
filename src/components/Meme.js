@@ -29,7 +29,7 @@ export default function Meme() {
     const [meme, setMeme] = useState({
         topText: '',
         bottomText: '',
-        randomImage: "https://i.imgflip.com/30b1gx.jpg" 
+        randomImage: "https://i0.wp.com/www.opindia.com/wp-content/uploads/2022/03/smith.jpg?resize=696%2C398&ssl=1" 
     })
 
     const [allMemeImages, setAllMemeImages] = useState([])
